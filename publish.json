@@ -1,11 +1,13 @@
 {
     "version": "v0.2.4-beta",
     "downloadPath": "https://github.com/Asyunelus/StarSaviorEventHelper/releases/download/v0.2.4-beta/StarSaviorEventHelper-v0.2.4-beta-win.zip",
-    "data_version": "202512050156",
+    "data_version": "202512052355",
     "data_files": [
         "./data/cards.json",
+        "./data/flavor_text.json",
         "./data/journey_data.json",
         "./data/potentials.json",
+        "./data/savior_data.json",
         "./data/stat_config.json"
     ]
 }
