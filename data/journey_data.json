@@ -130,7 +130,7 @@
         {
           "text": "1. 돈을 내고 구입한다.",
           "condition": "주화 -50",
-          "result": "스태미나 +5, 전설의 검 모조품(궁극기 사용시 효과적중 증가) / 힘인증특훈서(공증)",
+          "result": "스태미나 +10, 전설의 검 모조품(궁극기 사용시 효과적중 증가) / 힘인증특훈서(공증)",
           "result_positive": "",
           "result_negative": ""
         },
@@ -308,7 +308,7 @@
           "text": "2. 강력한 힘으로 충격을 가한다.",
           "condition": "정체불명의 유물",
           "result": "",
-          "result_positive": "힘 +10, 보호 +10 or 체력 +10, 보호 +10",
+          "result_positive": "힘 +10 or 체력 +10 or 인내 +10, 보호 +10",
           "result_negative": "없음"
         },
         {
